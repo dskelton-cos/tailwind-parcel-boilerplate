@@ -1,6 +1,6 @@
 {
   "name": "tailwind-parcel-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "♥ Boilerplate parcel with tailwindcss simple ",
   "scripts": {
     "deps": "npm i -D @fullhuman/postcss-purgecss autoprefixer parcel-bundler postcss tailwindcss"

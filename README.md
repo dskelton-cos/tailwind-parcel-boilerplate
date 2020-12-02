@@ -17,7 +17,7 @@ $ mkdir <my-project> && cd <my-project>
 ### Run build script using `npx`.
 
 ```bash
-$ npx tailwindcss-parcel-boilerplate
+$ npx tailwind-parcel-boilerplate
 ```
 
 Then just run `npm run dev`, open your favourite text editor and _voilà!_

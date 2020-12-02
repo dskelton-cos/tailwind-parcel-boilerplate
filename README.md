@@ -1,26 +1,29 @@
-# TailwindCSS + Parcel + PurgeCSS Starter Project 🌀📦
+# 🌀 TailwindCSS + Parcel + PostCss Starter Project 
 
-A bare-simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org) boilerplate. Uses [PurgeCSS](https://www.purgecss.com/) in production builds.
+A bare-simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org) boilerplate. Uses [Postcss](https://github.com/postcss/postcss) in production builds.
 
-![TailwindCSS + Parcel](https://huisje83.nl/tw-p.png)
 
 ## Getting started
 
 ### Create your project folder.
 
 ```bash
-$ mkdir <my-project> && cd <my-project>
+# create new project
+$ npx degit trkhanh8/tailwind-parcel-boilerplate example-1
+$ cd example-1
+
+# install required packages
+$ npm i
+
+# run the app
+$ npm start
+
+# build the app
+$ npm run build
 ```
 
-### Run build script using `npx`.
-
-```bash
-$ npx tailwind-parcel-boilerplate
-```
 
 Then just run `npm run dev`, open your favourite text editor and _voilà!_
-
-#### If you only want to install the dependencies, run `npx tailwindcss-parcel-boilerplate deps`
 
 ## Building for production
 
@@ -32,4 +35,4 @@ $ npm run build
 
 ## Contributing
 
-I'm always open for new ideas. If there's anything you'd like to see added to this project or if you find a bug, don't hesitate to [submit an issue](https://github.com/didiercatz/tailwindcss-parcel-boilerplate/issues/new) or [send a pull request](https://github.com/didiercatz/tailwindcss-parcel-boilerplate/pull/new/master).
+I'm always open for new ideas. If there's anything you'd like to see added to this project or if you find a bug, don't hesitate to [submit an issue](https://github.com/trkhanh/tailwind-parcel-boilerplate/issues/new) or [send a pull request](https://github.com/trkhanh/tailwind-parcel-boilerplate/pull/new/master).

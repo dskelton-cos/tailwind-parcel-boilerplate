@@ -9,7 +9,7 @@ A bare-simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parce
 
 ```bash
 # create new project
-$ npx degit trkhanh8/tailwind-parcel-boilerplate example-1
+$ npx degit trkhanh/tailwind-parcel-boilerplate example-1
 $ cd example-1
 
 # install required packages

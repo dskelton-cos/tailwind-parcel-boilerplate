@@ -1,7 +1,6 @@
-# 🌀 TailwindCSS + Parcel + PostCss Starter Project 
+# 🧿 TailwindCSS + Parcel + PostCss Starter Project
 
-A bare-simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org) boilerplate. Uses [Postcss](https://github.com/postcss/postcss) in production builds.
-
+A bare-simple [Tailwind CSS](https://tailwindcss.com) + [ParcelJS](https://parceljs.org) boilerplate (without any 🙄git's commit). Uses [Postcss](https://github.com/postcss/postcss) in production builds.
 
 ## Getting started
 
@@ -21,7 +20,6 @@ $ npm start
 # build the app
 $ npm run build
 ```
-
 
 Then just run `npm run dev`, open your favourite text editor and _voilà!_
 
